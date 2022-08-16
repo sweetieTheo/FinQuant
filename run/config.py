@@ -10,7 +10,7 @@ class Path:
     stock_root = data_root + '\\股市数据_代码'
     daily_root = data_root + '\\股市数据_日期'
     report_root = data_root + '\\财报数据'
-    result_root = data_root + '\\回测结果'
+    result_root = data_root + '\\回测结果a'
     action_root = data_root + '\\个股量化方案'
 
 
